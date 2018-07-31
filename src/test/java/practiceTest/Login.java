@@ -72,7 +72,7 @@ public class Login {
 	public void titleTest() {
 		extentTest = extent.startTest("titleTest");
 		String actual = driver.getTitle();
-		Assert.assertEquals(actual, "google1234");
+		Assert.assertEquals(actual, "Google");
 	}
 
 	@AfterMethod

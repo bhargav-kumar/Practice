@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="FreeCRM Automation Test">
+	
+	<test name="Practice Test">
+		<classes>
+			<class name="practiceTest.Login"></class>
+			
+		</classes>
+	</test>
+
+</suite>
